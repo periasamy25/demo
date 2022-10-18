@@ -4,4 +4,6 @@ First Git Project
 
 Adding new contents newly, to the current file.
 
-Removing and updating existing lines of code
+New lines for commenting the actual info. not exactly required here.
+
+#these are comments, not required
